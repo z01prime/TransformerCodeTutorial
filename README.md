@@ -1,1 +1,1 @@
-my notebook
+notebook
